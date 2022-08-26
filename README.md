@@ -1,6 +1,6 @@
-Olá, meu nome é Arlindo Junior ! 👋
+Olá, meu nome é ARLINDO JUNIOR ! 👋
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas !
+- 💻 ESTUDANTE DE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS !
 
 <div align="center">
   <a href="https://github.com/01ArlindoJr">
