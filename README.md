@@ -1,6 +1,6 @@
 Olá, meu nome é ARLINDO JUNIOR ! 👋
 
-- 💻 ESTUDANTE DE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS !
+- 💻 MOBILE DEVELOPER !
 
 <div align="center">
   <a href="https://github.com/01ArlindoJr">
